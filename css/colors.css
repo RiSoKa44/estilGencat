@@ -1,0 +1,14 @@
+/* TEXT ICONOS Y BOTONES */
+/* #333333 #666666 #999999 */
+
+p, h1, h2, ul, li{
+    color: #333333;
+}
+
+/* LINEAS Y SEPARADORES */
+/* #DDDDDD */
+
+/* COLOR FONDO */
+body{
+    background-color: #F5F5F5;
+}
