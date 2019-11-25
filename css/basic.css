@@ -1,0 +1,72 @@
+
+body {
+    margin: 0;
+    margin: auto;
+    max-width: 960px;
+    font-family: "Open Sans";
+}
+
+#title {
+    font-size: 35px;
+    color: white;
+    background-color: #333333;
+}
+
+#logo {
+    width: 150px;
+}
+
+#subtitol {
+    color: #333333;
+    font-size: 35px;
+}
+
+#intro {
+    background-color: #F5F5F5;
+}
+
+#subcapçalera {
+    color: #C00000;
+    background-color: #F5F5F5;
+    font-size: 24px;
+    display: flex;
+}
+
+#llista {
+    float: right;
+}
+
+.lletra_gris {
+    color: #666666;
+}
+
+#franja1 {
+    display: flex;
+}
+
+#galeria {
+    display: flex;
+    margin:auto;
+    width:60%;
+    background-color: white;
+}
+
+#seccio {
+    background-color: white;
+    border: solid 1px grey;
+    display: flex;
+}
+
+#seccio_text {
+    text-align: justify;
+}
+
+
+#falda{
+    background-color: #DDDDDD;
+    display: flex;
+}
+
+#footer{
+    display: flex;
+}
