@@ -64,6 +64,15 @@ body{
     text-align: justify;
 }
 
+#link_profes {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+#text_profes:hover {
+    border-bottom: 1px solid black;
+}
+
 
 #falda{
     background-color: #DDDDDD;
@@ -72,4 +81,6 @@ body{
 
 #footer{
     display: flex;
+    background-color: #DDDDDD;
+    padding: 10px;
 }
