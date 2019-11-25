@@ -3,6 +3,9 @@
 body{
     background-color: #F5F5F5;
 }
+div #intro{
+    background-color: #FFFFFF;
+}
 #footer{
     background-color: #DDDDDD;
 }
