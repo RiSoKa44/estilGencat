@@ -1,9 +1,16 @@
 /* TEXT ICONOS Y BOTONES */
 /* #333333 #666666 #999999 */
+body{
+    background-color: #F5F5F5;
+}
+#footer{
+    background-color: #DDDDDD;
+}
 
 p, h1, h2, ul, li{
     color: #333333;
 }
+
 a{
     color: #333333;
 }
