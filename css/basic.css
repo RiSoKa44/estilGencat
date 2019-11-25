@@ -79,7 +79,13 @@ body{
 }
 
 #footer{
-    display: flex;
+    
     background-color: #DDDDDD;
     padding: 10px;
+    height: min-content;
+}
+#AvisLegal{
+    display: flex;
+    justify-content: right;
+    align-self: stretch;
 }
