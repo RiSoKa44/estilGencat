@@ -1,6 +1,7 @@
-
-body {
+body{
     margin: 0;
+}
+.cos{
     margin: auto;
     max-width: 960px;
     font-family: "Open Sans";
@@ -10,6 +11,8 @@ body {
     font-size: 35px;
     color: white;
     background-color: #333333;
+    padding-left: 460px ;
+    
 }
 
 #logo {
