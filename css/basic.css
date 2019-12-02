@@ -2,8 +2,8 @@ body{
     margin: 0;
 }
 .cos{
-    margin: 2% auto;
-    max-width: 960px;
+ 
+    
 }
 
 #title {
@@ -20,11 +20,11 @@ body{
 
 #subtitol {
     color: #333333;
-    font-size: 35px;
+    
 }
 
 #intro {
-    background-color: #F5F5F5;
+    padding:0%;
 }
 
 #subcapçalera {
@@ -88,4 +88,10 @@ body{
     display: flex;
     justify-content: right;
     align-self: stretch;
+}
+div > * {
+    padding: 0 25%;
+}
+a{
+    margin: 0 25%;
 }
